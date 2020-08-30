@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Converter App</string>
+    <string name="Calcu">Calculations</string>
+    <string name="Calculator">STANDARD CALCULATOR</string>
+    <string name="title_activity_standard__cal">Standard_Cal</string>
+
+    /*Buttons for calculator*/
+    <string name="clear">C</string>
+    <string name="fullstop">.</string>
+    <string name="add">+</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="sub">-</string>
+    <string name="equal">=</string>
+    <string name="number9">9</string>
+    <string name="number8">8</string>
+    <string name="number7">7</string>
+    <string name="number6">6</string>
+    <string name="number5">5</string>
+    <string name="number4">4</string>
+    <string name="number3">3</string>
+    <string name="number2">2</string>
+    <string name="number1">1</string>
+    <string name="number0">0</string>
+
+    <string name="UnitConverter">UNIT CONVERTER</string>
+    <string name="title_activity_unit_converter">UnitConverter</string>
+
+    <string name="title_activity_unit_area">UnitArea</string>
+    <string name="UnitArea">AREA</string>
+
+    <string-array name="area">
+        <item>Sq. Millimeter</item>
+        <item>Sq. Centimeter</item>
+        <item>Sq Meter</item>
+        <item>Sq. Kilometer</item>
+        <item>Acre</item>
+        <item>Hectare</item>
+    </string-array>
+
+    <string name="title_activity_unit_length">UnitLength</string>
+    <string name="UnitLength">LENGTH</string>
+
+    <string-array name="length">
+        <item>Nanometer</item>
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string name="title_activity_unit_weight">UnitWeight</string>
+    <string name="UnitWeight">WEIGHT</string>
+
+    <string-array name="weight">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+    </string-array>
+
+    <string name="CurrencyConverter">CURRENCY CONVERTER</string>
+    <string name="title_activity_currency_converter">CurrencyConverter</string>
+    <string name="Convert">CONVERT</string>
+    <string name="text">Enter Currency in Rupees:</string>
+
+</resources>
